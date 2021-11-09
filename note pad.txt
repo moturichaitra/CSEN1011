@@ -1,0 +1,9 @@
+Flowchart to find wheather is prime or composite
+1.Start
+2.Accept a positive integer(Number greater than 2)
+3.Intialise counter with value 2
+4.Divide the number is Zero display the positive number is composite
+5.If the number is zero display the positive number is composite
+6.Ellse incremint the counter and report from step 4 until the counter value is less than 2
+7.After completion of all the steps display the number the number is prime
+8.Stop
